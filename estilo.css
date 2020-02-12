@@ -1,0 +1,32 @@
+body{
+	margin: 0px 112px 0px 112px
+	background-image: url(".../praias.jpg");
+}
+
+h1{
+	text-align: center;
+	font-family: arial,verdana,sans-serif
+	font-variant:small-caps;
+	background-color: "orange";
+}
+p{
+	text-align: justify;
+	background-color: "#ffffff;"
+	padding:5px 10px 5px 10px;
+
+}
+a:visited {
+	color: red;
+	text-decoration:nome;
+}
+a:hover {
+	color:green;
+	font: italic small-caps;
+	background-color: "#ffffff";
+	text-decoration:nome;
+}
+#imagens{
+	border: medium ridge gold;
+	background-color: "cyan";
+	padding:3px 6px 0px 6px;
+}
